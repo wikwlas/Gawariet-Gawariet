@@ -1,11 +1,10 @@
-Java Chat Application with Authentication and Messaging\
+<h1>Java Chat Application with Authentication and Messaging</h1>
 
-This project entails the development of a Java-based chat application, encompassing two primary components: a server and a client. The objective is to facilitate seamless communication between users, necessitating authentication for access.
-
-Components:
-Server:
-Responsible for managing user authentication and message routing.
-Client:
+This project entails the development of a Java-based chat application, encompassing two primary components: a server and a client. The objective is to facilitate seamless communication between users, necessitating authentication for access.\
+<h2>Components:</h2>
+<h3>Server:</h3>
+Responsible for managing user authentication and message routing.\
+<h3>Client:</h3>
 Allows users to connect to the server using their login credentials and engage in conversations.
 User Authentication:
 Each user is required to have a unique login and password to access the system.
