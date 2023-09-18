@@ -23,6 +23,6 @@ If the intended recipient is not logged in, the server informs the sender accord
 
 Prior to engaging in a conversation, users must establish a friendship.\
 For example, Adam must establish a friendship with Beata to initiate a chat.
-</h3>Friend List:</h3>
+<h3>Friend List:</h3>
 
 The client can retrieve a list of friends, along with their online status, to facilitate streamlined communication.
