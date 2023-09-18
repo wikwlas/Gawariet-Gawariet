@@ -10,7 +10,6 @@ Allows users to connect to the server using their login credentials and engage i
 Each user is required to have a unique login and password to access the system.
 
 To initiate a conversation, the client must establish a connection to the server by providing their login and password for authentication.
-
 The server validates the provided credentials before permitting message transmission.
 <h3>Messaging:</h3>
 Users can send a package of data containing the recipient's login and the message's content.
