@@ -7,12 +7,16 @@ Responsible for managing user authentication and message routing.
 <h3>Client:</h3>
 Allows users to connect to the server using their login credentials and engage in conversations.
 <h3>User Authentication:</h3>
-Each user is required to have a unique login and password to access the system.\\
-To initiate a conversation, the client must establish a connection to the server by providing their login and password for authentication.\
+Each user is required to have a unique login and password to access the system.
+
+To initiate a conversation, the client must establish a connection to the server by providing their login and password for authentication.
+
 The server validates the provided credentials before permitting message transmission.
 <h3>Messaging:</h3>
-Users can send a package of data containing the recipient's login and the message's content.\
-The server then relays the message to the intended recipient, allowing for replies.\
+Users can send a package of data containing the recipient's login and the message's content.
+
+The server then relays the message to the intended recipient, allowing for replies.
+
 If the intended recipient is not logged in, the server informs the sender accordingly.
 <h2>Additional Features:</h2>
 <h3>Friend Functionality:</h3>
